@@ -1,0 +1,1 @@
+# Portfolio schema placeholder
