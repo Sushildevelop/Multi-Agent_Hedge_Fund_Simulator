@@ -1,4 +1,4 @@
-# multi-agent-hedge-fund
+﻿# multi-agent-hedge-fund
 
 Project scaffold for a multi-agent hedge fund system.
 
